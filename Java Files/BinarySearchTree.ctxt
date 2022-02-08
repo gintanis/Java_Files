@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BinarySearchTree
+comment1.params=
+comment1.target=BinarySearchTree()
+comment2.params=key
+comment2.target=void\ insert(int)
+comment3.params=root\ key
+comment3.target=BinarySearchTree.Node\ insertRec(BinarySearchTree.Node,\ int)
+comment3.text=\ A\ recursive\ function\ to\ninsert\ a\ new\ key\ in\ BST
+comment4.params=
+comment4.target=void\ inorder()
+comment5.params=root
+comment5.target=void\ inorderRec(BinarySearchTree.Node)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

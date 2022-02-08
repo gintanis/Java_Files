@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LinkedListStack
+comment1.params=
+comment1.target=LinkedListStack()
+comment2.params=data
+comment2.target=void\ push(int)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=int\ pop()
+comment5.params=
+comment5.target=int\ peek()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
